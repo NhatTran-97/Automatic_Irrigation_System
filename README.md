@@ -21,11 +21,15 @@ Before the competition, our product was tested on the EIU campus, demonstrated i
 
 ## 🎥 Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/vBgO_YLfsCw/hqdefault.jpg)](https://youtu.be/vBgO_YLfsCw)
+<p align="center">
+  <a href="https://youtu.be/vBgO_YLfsCw">
+    <img src="https://img.youtube.com/vi/vBgO_YLfsCw/hqdefault.jpg" alt="Watch the video" />
+  </a>
+</p>
 
 Then we also implemented a small prototype version to demonstrate the features at the national finals round.
 <p align="center">
-  <img src="./images/demo.gif" width="480">
+  <img src="./images/Automatic_Irrigation_System_prototype.jpg" width="480">
 </p>
 
 
