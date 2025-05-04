@@ -19,7 +19,7 @@ Before the competition, our product was tested on the EIU campus, demonstrated i
 
 ---
 
-## 🎥 Demo Video
+## 📷 Demo Video
 
 <p align="center">
   <a href="https://youtu.be/vBgO_YLfsCw">
@@ -31,7 +31,5 @@ Then we also implemented a small prototype version to demonstrate the features a
 <p align="center">
   <img src="./images/Automatic_Irrigation_System_prototype.jpg" width="480">
 </p>
-
-
 
 ## II. System Overview
