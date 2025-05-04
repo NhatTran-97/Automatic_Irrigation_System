@@ -1,12 +1,6 @@
 # 💧 Automatic_Irrigation_System
 
 ## I. Introduction
-
-This system supports multiple control modes:
-- 🧑‍🌾 Local manual control using a keypad interface
-- ⏰ Scheduled automatic watering
-- 📱 Remote control via a mobile application
-
 This repository contains the implementation of an Automatic Irrigation System, developed in 2022 as part of my participation in a national startup competition.
 
 The system is designed to optimize water usage and provide flexible operation. It supports two main control methods:
@@ -17,9 +11,7 @@ By combining automation, scheduling, and remote access, this project offers a pr
 
 Before the competition, our product was tested on the EIU campus, demonstrated its effectiveness, and was selected among the top 70 teams in the national finals.
 
----
-
-## 📷 Demo Video
+#### 📷 Demo Video
 
 <p align="center">
   <a href="https://youtu.be/vBgO_YLfsCw">
