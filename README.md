@@ -1,2 +1,2 @@
 # Automatic_Irrigation_System
-This project implemented in 2022, That i participated in a startup competion
+This project was implemented in 2022 as part of my participation in a national startup competition.
